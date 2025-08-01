@@ -1,90 +1,93 @@
-# 📄 CV – Python Backend Developer
+# 🇵🇱 Full Stack Python Developer Resume
 
-**Imię i nazwisko:** [Your Full Name]  
-**Email:** [your.email@example.com]  
-**Telefon:** [+48 xxx xxx xxx]  
-**Lokalizacja:** Gotowy do pracy zdalnej / Relokacji do Polski  
-**Status:** Dostępny na B2B lub Umowę o Pracę  
-**LinkedIn:** [your-linkedin-profile]  
-**Portfolio / GitHub:** [your-github-or-project-link]  
-
----
-
-## 🧠 Podsumowanie zawodowe
-
-Full Stack Developer z 2+ letnim doświadczeniem w tworzeniu zaawansowanych narzędzi automatyzacji, backendowych API i pełnych wdrożeń opartych na Python (FastAPI), Docker, i VPS. Specjalizuję się w inteligentnej automatyzacji z użyciem AI (YOLOv8, LayoutLMv3), OCR oraz Playwright. Samodzielnie buduję i wdrażam systemy gotowe do użycia w produkcji, skoncentrowane na wydajności, skalowalności i prostocie utrzymania.
+**Name:** [Your Full Name]  
+**Email:** [you@example.com]  
+**Phone:** [+91 / +48 ...]  
+**Location:** Open to Remote / Relocation to Poland  
+**LinkedIn/GitHub:** [your links here]  
+**Availability:** Immediate / Negotiable  
 
 ---
 
-## 💻 Kluczowe technologie
+## 🧠 Profile Summary
 
-- **Języki:** Python, Java, JavaScript, C++, SQL  
-- **Frameworki:** FastAPI, Flask, Spring Boot  
-- **Frontend (podstawowy):** React, React Native, Angular  
-- **AI/Automatyzacja:** YOLOv8, LayoutLMv3, Playwright  
-- **DevOps:** Docker, NGINX, PM2, Certbot, VPS (Ubuntu)  
-- **Bazy danych:** MySQL, PostgreSQL  
-- **Inne:** Git, REST APIs, Agile, Microservices, OCR  
+Full Stack Developer with 2+ years of hands-on experience building backend systems, AI-powered automation tools, and full-stack deployments using Python, FastAPI, React, Docker, and Java. Specialized in automating enterprise workflows (Workday), training and integrating AI models (YOLOv8, LayoutLMv3), and managing VPS-based deployments with NGINX and Certbot. Resourceful, fast-learning, and production-oriented — I focus on delivering clean, scalable, and high-impact systems.
 
 ---
 
-## 🚀 Projekty techniczne
+## 💻 Core Skills
 
-### ✅ AI-Powered Workday CF Extractor  
-**Stack:** Python, Playwright, LayoutLMv3, YOLOv8, JSON  
-- Zbudowałem inteligentnego agenta do ekstrakcji pól z Workday Custom Report UI  
-- Wykorzystałem OCR + wykrywanie ikon do automatycznej nawigacji i mapowania drzewa pól  
-- Obsłużyłem backtracking, logikę błędów i generowanie czystego JSON  
-- Efekt: automatyzacja zadania zajmującego wcześniej >80 godzin/miesiąc
-
-### ✅ Full-Stack FastAPI + React Deployment  
-**Stack:** FastAPI, React, MySQL, Docker, NGINX, PM2  
-- Backend API w FastAPI + frontend React  
-- Pełne wdrożenie na VPS z Docker + NGINX + Certbot (SSL)  
-- Monitorowanie, stabilność i restart usług przez PM2  
-- Samodzielna konfiguracja i bezpieczeństwo całej aplikacji
-
-### ✅ Backend Microservices for Auto Dealership  
-**Stack:** Java Spring Boot, AWS ECS, S3  
-- System zarządzania fakturami, dostępnością pojazdów i danymi klientów  
-- Bezpieczne API z podziałem na role i integracją z bazą danych + AWS S3  
-- Wdrożone jako mikroserwis w AWS z automatycznym skalowaniem
+- **Languages:** Python, Java, JavaScript, SQL, C++, C#, Kotlin  
+- **Frameworks:** FastAPI, Flask, Django (basic), Spring Boot, Node.js  
+- **Frontend:** React.js, Angular (basic), HTML/CSS  
+- **DevOps:** Docker, PM2, NGINX, Certbot (SSL), Git  
+- **AI/ML:** YOLOv8 (Object Detection), LayoutLMv3 (OCR), LangChain  
+- **Database:** MySQL, PostgreSQL, MongoDB  
+- **Cloud:** AWS ECS (used), Ubuntu VPS  
+- **Other:** REST APIs, Microservices, Automation, OCR, Agile  
 
 ---
 
-## 🧾 Doświadczenie zawodowe
+## 🛠️ Projects
 
-**Freelancer / Independent Engineer**  
-*Full Stack & Automation Developer*  
-📍 Zdalnie | 🗓️ 2022 – obecnie  
-- Realizacja projektów backendowych i automatyzacyjnych dla klientów z sektora IT i HR  
-- Budowa agentów AI do analizy interfejsów użytkownika  
-- Tworzenie i wdrażanie usług REST API  
-- Samodzielne zarządzanie VPS i pełnym cyklem życia aplikacji
-
----
-
-## 🎓 Wykształcenie
-
-**Bachelor of Computer Applications (BCA)**  
-[Your University], Indie  
-Rok ukończenia: [Year]
+### ✅ Project 1: AI-Powered Workday Custom Report Extractor  
+**Tech Stack:** Python, Playwright, LayoutLMv3, YOLOv8, JSON  
+- Built an AI agent to extract 100+ Custom Fields (CFs) from Workday reports using OCR + UI detection.  
+- Masked `[T]` icons using YOLOv8, extracted layout-structured text using LayoutLMv3.  
+- Automated recursive CF tree traversal with smart backtracking and field-level logging.  
+- Result: Reduced 80+ hours/month of manual effort in enterprise workflows.
 
 ---
 
-## 🌍 Języki
-
-- 🇬🇧 Angielski – B2/C1 (płynny w środowisku technicznym)  
-- 🇵🇱 Polski – w trakcie nauki (planuję zdobycie certyfikatu A2/B1)
-
----
-
-## 🤝 Preferencje współpracy
-
-- B2B Contract lub UoP  
-- Praca zdalna / hybrydowa / gotowość do relokacji  
-- Stawka: 100–140 PLN/h lub równowartość brutto
+### ✅ Project 2: Full-Stack FastAPI + React Deployment on VPS  
+**Tech Stack:** FastAPI, React.js, MySQL, Docker, NGINX, PM2, Certbot  
+- Developed backend API with FastAPI and dynamic frontend with React.js.  
+- Deployed using Docker, set up secure HTTPS with Certbot, and managed services with PM2.  
+- Outcome: Stable, production-ready deployment with CI-like maintainability.
 
 ---
 
-**Referencje dostępne na życzenie.**
+### ✅ Project 3: Vehicle Inventory & Billing System (Java + AWS)  
+**Tech Stack:** Java Spring Boot, AWS ECS, S3, SQL  
+- Built APIs for billing, test drives, customer profiles, and inventory.  
+- Integrated role-based access, file upload to S3, and live status tracking.  
+- Outcome: Enabled secure, trackable, paperless vehicle management for sales teams.
+
+---
+
+## 📜 Work Experience
+
+**Freelance Developer / AI Automation Engineer**  
+*Self-driven, Remote*  
+*2023 – Present*  
+- Delivered end-to-end AI+backend projects  
+- Managed infrastructure, logging, and scaling with minimal resources  
+- Built deployable, production-ready systems from scratch  
+
+---
+
+## 🎓 Education
+
+**Bachelor’s in Computer Applications (BCA)**  
+[Your University Name], India  
+Year of Completion: [Your Year]
+
+---
+
+## 🌐 Languages
+
+- **English:** Fluent (B2/C1)  
+- **Hindi:** Native  
+- *(Learning Polish – A2 level)*
+
+---
+
+## 🤝 Contract Preferences
+
+- Open to B2B or UoP  
+- Remote or Onsite in Poland  
+- Salary Expectation: 14,000–18,000 PLN net/month  
+
+---
+
+**References & project code samples available on request.**
